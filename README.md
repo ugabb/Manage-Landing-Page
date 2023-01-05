@@ -1,4 +1,4 @@
-# Mange-Landing-Page
+# Manage-Landing-Page
 ## Build with: ReactJs and Tailwind
 
 Desktop:
